@@ -36,18 +36,19 @@
   font-size: 45px;
   font-family: sans-serif;
   font-weight: 600;
-  color: black;
+  color: white;
 }
 .input {
   padding: 10px 20px;
   border: none;
   border-radius: 10px;
-  color: rgb(22, 21, 21);
+  color: white;
   text-align: left;
   font-size: 25px;
   font-family: sans-serif;
   font-weight: 600;
   margin-bottom: 15px;
+  background-color: #222;
 }
 .input:hover {
   border: 1px solid white;
@@ -56,6 +57,7 @@
   padding: 15px 50px;
   border: none;
   border-radius: 10px;
+  background-color: #222;
   color: white;
   text-align: center;
   font-size: 25px;
