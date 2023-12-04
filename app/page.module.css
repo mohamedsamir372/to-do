@@ -78,6 +78,7 @@
   font-family: sans-serif;
   cursor: pointer;
   overflow-wrap: break-word;
+  color: black;
   /* max-width: 350px; */
 }
 .items {
