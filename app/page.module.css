@@ -19,7 +19,17 @@
   .li {
     max-width: 90%;
   }
+  .btn {
+    max-width: 70%;
+  }
+  .input {
+    max-width: 70%;
+  }
+  .h1 {
+    max-width: 70%;
+  }
 }
+
 .h1 {
   text-align: center;
   margin-bottom: 25px;
